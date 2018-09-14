@@ -1,0 +1,23 @@
+{
+    "name": "indradevzapbuild/fnm",
+    "description": "Boilerplate package for creating other packages.",
+    "keywords": ["template", "composer", "package"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Darwin Biler",
+            "email": "buonzz@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+	"autoload": {
+        "psr-4": {
+            "FNM\\": "src/"
+        }
+    },
+    "version": "1.0.0", 
+    "minimum-stability": "dev" 
+}
