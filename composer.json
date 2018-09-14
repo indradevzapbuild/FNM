@@ -1,12 +1,12 @@
 {
     "name": "indradevzapbuild/fnm",
-    "description": "Boilerplate package for creating other packages.",
-    "keywords": ["template", "composer", "package"],
+    "description": "PHP library to create FNM file and import FNM file.",
+    "keywords": ["FNM", "PHP", "create FNM file", "1003 form"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Darwin Biler",
-            "email": "buonzz@gmail.com"
+            "name": "TSS ABNOY",
+            "email": "tssabnoy@gmail.com"
         }
     ],
     "type": "project",
