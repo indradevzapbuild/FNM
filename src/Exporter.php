@@ -67,7 +67,7 @@ class Exporter {
      */
     private function loadConfig() {
         $config = new \stdClass;
-        $config->dir = basename(__DIR__).'/bin';
+        $config->dir = dirname(__FILE__).'/bin';
         // Load the field config
         $this->_fields = json_decode(file_get_contents($config->dir . '/fnm.json'));
 

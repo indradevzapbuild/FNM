@@ -44,7 +44,7 @@ class Importer {
         // file path
         $this->_file_path = $file_path;
         //set directory path
-        $this->_directory_path = basename(__DIR__).'/bin';
+        $this->_directory_path = dirname(__FILE__).'/bin';
 
         // Set empty return data
         $this->_return_data = [];
