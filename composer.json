@@ -5,8 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "TSS ABNOY",
-            "email": "tssabnoy@gmail.com"
+            "name": "INDRADEV PRASAD",
+            "email": "indradevzapbuild@zapbuild.com"
         }
     ],
     "type": "project",
@@ -15,7 +15,7 @@
     },
 	"autoload": {
         "psr-4": {
-            "FNM\\": "src/"
+            "indradevzapbuild\\FNM\\": "src/"
         }
     },
     "version": "1.0.0", 

@@ -1,0 +1,19 @@
+EH                                           0        
+TH T100099-0021        
+TPI 1.0001                              N
+0001  3.20 W
+00ANN
+01A03                                                                                                                             100000                   05                                                                                                                                                                
+02A                                                                                                1  F1                                                                                    
+02B  05                                                                                1                                                                     
+02D                                                                01                                                                                                
+03ABW000000000John                                                                  Smith                                  1 234 567                           example1@exammple.com                                                            
+03C000000000ZG255 North Walt Whitman St.                        Ridgecrest                         CA93555         United States                                     
+06G                                                                                           14                                                                                                             
+00070 3.20 
+99B   0                                                                                                                                          
+00011 3.20 
+PID                                                  
+PCH360       
+TT 1        
+ET 0        
